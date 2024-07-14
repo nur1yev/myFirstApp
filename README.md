@@ -1,2 +1,2 @@
-# myFirstApp
-change picture
+# Android Developer
+Android Studio
